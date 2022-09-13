@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun updateQuestion() {
+        Log.d(TAG, quizViewModel.currentQuestionAnswer.toString())
         val questionTextResId = quizViewModel.currentQuestionText
         binding.questionTextView.setText(questionTextResId)
     }
