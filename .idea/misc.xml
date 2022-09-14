@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/layout/activity_cheat.xml" value="0.16847826086956522" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29393115942028986" />
       </map>
     </option>
